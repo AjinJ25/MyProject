@@ -1,4 +1,5 @@
 a = 20
 b = 30
-d = a+b
+c = 40
+d = a+b+c
 print(d)
